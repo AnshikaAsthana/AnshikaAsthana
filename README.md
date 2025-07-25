@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshika Asthana</h1>
+<h1 align="center">Hi 👋, I'm Anshika Raj</h1>
 <h3 align="center">B.Tech CSE-AI | Passionate about AI, ML, and Frontend Development</h3>
 
 <p align="center">
