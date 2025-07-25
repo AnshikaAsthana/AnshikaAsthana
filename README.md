@@ -11,18 +11,9 @@
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering (Artificial Intelligence)**
 - 💡 Interested in **Artificial Intelligence, Machine Learning & Frontend Development**
 - 💻 Constantly learning and building projects to improve my skills
-- 📫 Reach me at **[anshikasrivastava2603@gmail.com](mailto:anshikaasthana394@gmail.com)**
+- 📫 Reach me at **[anshikasrivastava2603@gmail.com](mailto:anshikasrivastava2603@gmail.com)**
 
 ---
-
-### 🧠 Languages & Proficiency
-
-| Language | Skill Level |
-|----------|-------------|
-| **Python** | <img src="https://progress-bar.dev/70/?title=&width=240&color=blue" alt="Python 70%" /> |
-| **C** | <img src="https://progress-bar.dev/60/?title=&width=240&color=blue" alt="C 60%" /> |
-| **Java** | <img src="https://progress-bar.dev/60/?title=&width=240&color=blue" alt="Java 60%" /> |
-
 
 ### 🧠 Languages and Tools
 
