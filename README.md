@@ -11,7 +11,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering (Artificial Intelligence)**
 - 💡 Interested in **Artificial Intelligence, Machine Learning & Frontend Development**
 - 💻 Constantly learning and building projects to improve my skills
-- 📫 Reach me at **[anshikasrivastava2603@gmail.com](mailto:anshikasrivastava2603@gmail.com)**
+- 📫 Reach me at **[anshikasrivastava2306@gmail.com](mailto:anshikasrivastava2306@gmail.com)**
 
 ---
 
@@ -47,7 +47,7 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="mailto:anshikasrivastava2603@gmail.com">
+  <a href="mailto:anshikasrivastava2306@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anshika-raj-ashtana/">
